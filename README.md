@@ -10,6 +10,8 @@ I think it could be a great idea to let the teammates play with each other so I 
 git clone https://github.com/Cygra/claude-code-agent-teams-tic-tac-toe.git ~/.claude/skills/tic-tac-toe
 ```
 
+Trigger it with something like "play Tic Tac Toe" or any request in any language to play a game of Tic Tac Toe.
+
 ***What is Tic Tac Toe?*** 
 
 https://en.wikipedia.org/wiki/Tic-tac-toe
